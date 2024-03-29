@@ -3,6 +3,5 @@
 
 Lista de exercícios sobre estruturas sequenciais de entrada, processamento e saída de dados
 
-## Referência
-
+## Referências
  [Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial)
