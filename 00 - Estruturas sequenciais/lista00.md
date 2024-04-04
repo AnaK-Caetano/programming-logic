@@ -5,7 +5,7 @@ Lista de exercícios sobre estruturas sequenciais de entrada, processamento e sa
 
 # Lista de exercícios
 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
-[ola_mundo.c](C\ola_mundo.c)
+[ola_mundo.c](../C/ola_mundo.c)
 
 2. Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 3. Faça um Programa que peça dois números e imprima a soma.
