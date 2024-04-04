@@ -3,11 +3,21 @@
 Lista de exercícios sobre estruturas sequenciais de entrada, processamento e saída de dados. Não é obrigatório usar comando de entrada e saída e pode-se inicializar variáveis sem interagir com o usuário. 
 
 
+###  
+
+
+
+
 # Lista de exercícios
 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
-[ola_mundo.c](C\ola_mundo.c)
+
+[ola_mundo.c](../../C_programs/ola_mundo.c) | [ola_mundo.py](../../python_programs/ola_mundo.py) | [olaMundo.java](../../java_programs/olaMundo.java) | [olaMundo.js](../../javascript_programs/olaMundo.js)
 
 2. Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
+
+()[]| 
+()[]|
+
 3. Faça um Programa que peça dois números e imprima a soma.
 4. Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 5. Faça um Programa que converta metros para centímetros.
@@ -46,20 +56,5 @@ Lista de exercícios sobre estruturas sequenciais de entrada, processamento e sa
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## Referências
  [Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial)
-
-## Documentação
-
-[Veja a lista complementar.](https://link-da-documentação)
-
