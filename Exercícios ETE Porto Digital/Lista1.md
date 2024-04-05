@@ -27,7 +27,15 @@ Peça ao usuário para inserir seu peso (em kg) e altura (em metros). Calcule o 
 ## Exercício 6: Troca de valores
 Leia dois números inteiros e troque seus valores. Ou seja, o valor da primeira variável deve ser atribuído à segunda variável e vice-versa.
 
-[troca_valores.py](../python_programs/troca_valores.py) | [trocaValores.js](../javascript_programs/trocaValores.js) | [trocaValores.java](../java_programs/trocaValores.java)
+[troca_valores_atribuição_multipla.py](../python_programs/troca_valores_atr_mult.py) | [trocaValoresAtribMultipla.js](../javascript_programs/trocaValoresAtrMult.js) | [trocaValoresAtribMultipla.java](../java_programs/trocaValoresAtrMult.java)
+
+[troca_valores_aritmetica.py](../python_programs/troca_valores_aritmetica.py) | [trocaValoresAritmetica.js](../javascript_programs/trocaValoresAritmetica.js) | [trocaValoresAritmetica.java](../java_programs/trocaValoresAritmetica.java)
+
+
+[troca_valores_temp.py](../python_programs/troca_valores_temp.py) | [trocaValoresTemp.js](../javascript_programs/trocaValoresTemp.js) | [trocaValoresTemp.java](../java_programs/trocaValoresTemp.java)
+
+[troca_valores_xor.py](../python_programs/troca_valores_xor.py) | [trocaValoresXor.js](../javascript_programs/trocaValoresXor.js) | [trocaValoresXor.java](../java_programs/trocaValoresXor.java)
+
 
 ## Exercício 7: Cálculo de desconto
 Solicite o preço de um produto e um percentual de desconto. Calcule o valor do desconto e o preço final do produto com o desconto aplicado.
